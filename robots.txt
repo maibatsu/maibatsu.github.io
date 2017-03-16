@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Host: www.maibatsu.github.io
+sitemap: https://maibatsu.github.io/sitemap.xml
