@@ -1,0 +1,2353 @@
+[{
+    "categoryId": 100001,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "Кузов",
+    "image": "",
+    "url": "kuzov",
+    "items": [{
+        "categoryId": 100743,
+        "parentId": 100001,
+        "hasChildren": true,
+        "name": "Детали кузова/крыло/буфер",
+        "image": "",
+        "url": "detali-kuzova-krylo-bufer",
+        "items": [{
+            "categoryId": 100165,
+            "parentId": 100743,
+            "hasChildren": false,
+            "name": "Колесная ниша",
+            "image": "",
+            "url": "kolesnaya-nisha",
+            "items": []
+          },
+          {
+            "categoryId": 100185,
+            "parentId": 100743,
+            "hasChildren": false,
+            "name": "Крыло/навесные части",
+            "image": "",
+            "url": "krylo-navesnye-chasti",
+            "items": []
+          },
+          {
+            "categoryId": 100187,
+            "parentId": 100743,
+            "hasChildren": false,
+            "name": "Буфер / составляющие",
+            "image": "",
+            "url": "bufer-sostavlyayushhie",
+            "items": []
+          },
+          {
+            "categoryId": 100191,
+            "parentId": 100743,
+            "hasChildren": false,
+            "name": "Передняя решетка / обшивка",
+            "image": "",
+            "url": "perednyaya-reshetka-obshivka",
+            "items": []
+          },
+          {
+            "categoryId": 100699,
+            "parentId": 100743,
+            "hasChildren": false,
+            "name": "Покрытие/покрышка",
+            "image": "",
+            "url": "pokrytie-pokryshka",
+            "items": []
+          },
+          {
+            "categoryId": 100739,
+            "parentId": 100743,
+            "hasChildren": false,
+            "name": "Обшивка кузова",
+            "image": "",
+            "url": "obshivka-kuzova",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 100744,
+        "parentId": 100001,
+        "hasChildren": true,
+        "name": "Остекление / зеркала",
+        "image": "",
+        "url": "osteklenie-zerkala",
+        "items": [{
+          "categoryId": 100566,
+          "parentId": 100744,
+          "hasChildren": false,
+          "name": "Зеркала",
+          "image": "",
+          "url": "zerkala",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 100826,
+        "parentId": 100001,
+        "hasChildren": false,
+        "name": "Газовые пружины",
+        "image": "",
+        "url": "gazovye-pruzhiny",
+        "items": []
+      },
+      {
+        "categoryId": 101407,
+        "parentId": 100001,
+        "hasChildren": true,
+        "name": "Система освещения / сигнализация",
+        "image": "",
+        "url": "sistema-osveshheniya-signalizaciya",
+        "items": [{
+          "categoryId": 101452,
+          "parentId": 101407,
+          "hasChildren": false,
+          "name": "Фонарь, установленный в двери",
+          "image": "",
+          "url": "fonar-ustanovlennyj-v-dveri",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 101465,
+        "parentId": 100001,
+        "hasChildren": true,
+        "name": "Основная фара / комплектующие",
+        "image": "",
+        "url": "osnovnaya-fara-komplektuyushhie",
+        "items": [{
+            "categoryId": 101466,
+            "parentId": 101465,
+            "hasChildren": false,
+            "name": "Основная фара / вставка",
+            "image": "",
+            "url": "osnovnaya-fara-vstavka",
+            "items": []
+          },
+          {
+            "categoryId": 101467,
+            "parentId": 101465,
+            "hasChildren": false,
+            "name": "Лампа накаливания основной фары",
+            "image": "",
+            "url": "lampa-nakalivaniya-osnovnoj-fary",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 101648,
+        "parentId": 100001,
+        "hasChildren": true,
+        "name": "Автомобиль, передняя часть",
+        "image": "",
+        "url": "avtomobil-perednyaya-chast",
+        "items": [{
+            "categoryId": 101649,
+            "parentId": 101648,
+            "hasChildren": false,
+            "name": "Буфер / составляющие",
+            "image": "",
+            "url": "bufer-sostavlyayushhie",
+            "items": []
+          },
+          {
+            "categoryId": 101650,
+            "parentId": 101648,
+            "hasChildren": false,
+            "name": "Крыло/навесные части",
+            "image": "",
+            "url": "krylo-navesnye-chasti",
+            "items": []
+          },
+          {
+            "categoryId": 101652,
+            "parentId": 101648,
+            "hasChildren": false,
+            "name": "Колесная ниша",
+            "image": "",
+            "url": "kolesnaya-nisha",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 101690,
+        "parentId": 100001,
+        "hasChildren": true,
+        "name": "Кабина пассажира",
+        "image": "",
+        "url": "kabina-passazhira",
+        "items": [{
+            "categoryId": 101698,
+            "parentId": 101690,
+            "hasChildren": false,
+            "name": "Зеркала",
+            "image": "",
+            "url": "zerkala",
+            "items": []
+          },
+          {
+            "categoryId": 101699,
+            "parentId": 101690,
+            "hasChildren": false,
+            "name": "дополнительный стоп-сигнал",
+            "image": "",
+            "url": "dopolnitelnyj-stop-signal",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 101705,
+        "parentId": 100001,
+        "hasChildren": true,
+        "name": "Автомобиль, задняя часть",
+        "image": "",
+        "url": "avtomobil-zadnyaya-chast",
+        "items": [{
+            "categoryId": 101706,
+            "parentId": 101705,
+            "hasChildren": false,
+            "name": "Буфер / составляющие",
+            "image": "",
+            "url": "bufer-sostavlyayushhie",
+            "items": []
+          },
+          {
+            "categoryId": 101710,
+            "parentId": 101705,
+            "hasChildren": false,
+            "name": "Колесная ниша",
+            "image": "",
+            "url": "kolesnaya-nisha",
+            "items": []
+          },
+          {
+            "categoryId": 101779,
+            "parentId": 101705,
+            "hasChildren": false,
+            "name": "Крыло/навесные части",
+            "image": "",
+            "url": "krylo-navesnye-chasti",
+            "items": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryId": 100002,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "Двигатель",
+    "image": "",
+    "url": "dvigatel",
+    "items": [{
+        "categoryId": 100003,
+        "parentId": 100002,
+        "hasChildren": true,
+        "name": "Механизм газораспределения",
+        "image": "",
+        "url": "mexanizm-gazoraspredeleniya",
+        "items": [{
+            "categoryId": 100397,
+            "parentId": 100003,
+            "hasChildren": false,
+            "name": "Распредвал",
+            "image": "",
+            "url": "raspredval",
+            "items": []
+          },
+          {
+            "categoryId": 104695,
+            "parentId": 100003,
+            "hasChildren": false,
+            "name": "Ременный шкив",
+            "image": "",
+            "url": "remennyj-shkiv",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 100223,
+        "parentId": 100002,
+        "hasChildren": true,
+        "name": "Прокладки",
+        "image": "",
+        "url": "prokladki",
+        "items": [{
+            "categoryId": 100225,
+            "parentId": 100223,
+            "hasChildren": false,
+            "name": "Прокладка головки цилиндра",
+            "image": "",
+            "url": "prokladka-golovki-cilindra",
+            "items": []
+          },
+          {
+            "categoryId": 100227,
+            "parentId": 100223,
+            "hasChildren": false,
+            "name": "Прокладка крышки клапана",
+            "image": "",
+            "url": "prokladka-kryshki-klapana",
+            "items": []
+          },
+          {
+            "categoryId": 100228,
+            "parentId": 100223,
+            "hasChildren": false,
+            "name": "Прокладка стерженя",
+            "image": "",
+            "url": "prokladka-sterzhenya",
+            "items": []
+          },
+          {
+            "categoryId": 100229,
+            "parentId": 100223,
+            "hasChildren": false,
+            "name": "Прокладка впускного коллектора",
+            "image": "",
+            "url": "prokladka-vpusknogo-kollektora",
+            "items": []
+          },
+          {
+            "categoryId": 100231,
+            "parentId": 100223,
+            "hasChildren": false,
+            "name": "Прокладка / уплотнительное кольцо выпускного коллектора",
+            "image": "",
+            "url": "prokladka-uplotnitelnoe-kolco-vypusknogo-kollektora",
+            "items": []
+          },
+          {
+            "categoryId": 100233,
+            "parentId": 100223,
+            "hasChildren": false,
+            "name": "Прокладка картера",
+            "image": "",
+            "url": "prokladka-kartera",
+            "items": []
+          },
+          {
+            "categoryId": 100234,
+            "parentId": 100223,
+            "hasChildren": false,
+            "name": "Прокладка масляного поддона",
+            "image": "",
+            "url": "prokladka-maslyanogo-poddona",
+            "items": []
+          },
+          {
+            "categoryId": 100683,
+            "parentId": 100223,
+            "hasChildren": false,
+            "name": "Герметизация охлаждающей жидкости",
+            "image": "",
+            "url": "germetizaciya-oxlazhdayushhej-zhidkosti",
+            "items": []
+          },
+          {
+            "categoryId": 100684,
+            "parentId": 100223,
+            "hasChildren": false,
+            "name": "Герметизация в ситеме циркуляции  масла",
+            "image": "",
+            "url": "germetizaciya-v-siteme-cirkulyacii-masla",
+            "items": []
+          },
+          {
+            "categoryId": 100789,
+            "parentId": 100223,
+            "hasChildren": false,
+            "name": "Прокладка/комплект прокладок вала",
+            "image": "",
+            "url": "prokladka-komplekt-prokladok-vala",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 100245,
+        "parentId": 100002,
+        "hasChildren": true,
+        "name": "Система смазки",
+        "image": "",
+        "url": "sistema-smazki",
+        "items": [{
+            "categoryId": 100470,
+            "parentId": 100245,
+            "hasChildren": false,
+            "name": "Масляный фильтр",
+            "image": "",
+            "url": "maslyanyj-filtr",
+            "items": []
+          },
+          {
+            "categoryId": 100478,
+            "parentId": 100245,
+            "hasChildren": false,
+            "name": "Датчик давления масла / клапан",
+            "image": "",
+            "url": "datchik-davleniya-masla-klapan",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 100373,
+        "parentId": 100002,
+        "hasChildren": true,
+        "name": "Головка цилиндра",
+        "image": "",
+        "url": "golovka-cilindra",
+        "items": [{
+            "categoryId": 100374,
+            "parentId": 100373,
+            "hasChildren": false,
+            "name": "Прокладка головки цилиндра",
+            "image": "",
+            "url": "prokladka-golovki-cilindra",
+            "items": []
+          },
+          {
+            "categoryId": 100375,
+            "parentId": 100373,
+            "hasChildren": false,
+            "name": "Крышка головки цилиндра / прокладка",
+            "image": "",
+            "url": "kryshka-golovki-cilindra-prokladka",
+            "items": []
+          },
+          {
+            "categoryId": 100376,
+            "parentId": 100373,
+            "hasChildren": false,
+            "name": "Прокладка / уплотнит. кольцо впускного/выпускного коллектора",
+            "image": "",
+            "url": "prokladka-uplotnit-kolco-vpusknogo-vypusknogo-kollektora",
+            "items": []
+          },
+          {
+            "categoryId": 100377,
+            "parentId": 100373,
+            "hasChildren": false,
+            "name": "Направляющая клапана / прокладка / регулировка",
+            "image": "",
+            "url": "napravlyayushhaya-klapana-prokladka-regulirovka",
+            "items": []
+          },
+          {
+            "categoryId": 100378,
+            "parentId": 100373,
+            "hasChildren": false,
+            "name": "Болт головки блока цилиндра",
+            "image": "",
+            "url": "bolt-golovki-bloka-cilindra",
+            "items": []
+          },
+          {
+            "categoryId": 102778,
+            "parentId": 100373,
+            "hasChildren": false,
+            "name": "Сальник вала",
+            "image": "",
+            "url": "salnik-vala",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 100383,
+        "parentId": 100002,
+        "hasChildren": true,
+        "name": "Система подачи воздуха",
+        "image": "",
+        "url": "sistema-podachi-vozduxa",
+        "items": [{
+          "categoryId": 100384,
+          "parentId": 100383,
+          "hasChildren": false,
+          "name": "Воздушный фильтр/корпус воздушного фильтра",
+          "image": "",
+          "url": "vozdushnyj-filtr-korpus-vozdushnogo-filtra",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 100514,
+        "parentId": 100002,
+        "hasChildren": true,
+        "name": "Блок-картер",
+        "image": "",
+        "url": "blok-karter",
+        "items": [{
+          "categoryId": 100533,
+          "parentId": 100514,
+          "hasChildren": false,
+          "name": "Блок-картер",
+          "image": "",
+          "url": "blok-karter",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 100515,
+        "parentId": 100002,
+        "hasChildren": true,
+        "name": "Кривошипношатунный механизм",
+        "image": "",
+        "url": "krivoshipnoshatunnyj-mexanizm",
+        "items": [{
+          "categoryId": 100521,
+          "parentId": 100515,
+          "hasChildren": false,
+          "name": "Сальник / комплект сальников вала",
+          "image": "",
+          "url": "salnik-komplekt-salnikov-vala",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 100535,
+        "parentId": 100002,
+        "hasChildren": true,
+        "name": "Крепление двигателя",
+        "image": "",
+        "url": "kreplenie-dvigatelya",
+        "items": [{
+            "categoryId": 100536,
+            "parentId": 100535,
+            "hasChildren": false,
+            "name": "Кронштейн двигателя",
+            "image": "",
+            "url": "kronshtejn-dvigatelya",
+            "items": []
+          },
+          {
+            "categoryId": 100538,
+            "parentId": 100535,
+            "hasChildren": false,
+            "name": "Подвеска двигателя",
+            "image": "",
+            "url": "podveska-dvigatelya",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 100541,
+        "parentId": 100002,
+        "hasChildren": true,
+        "name": "Система очистки ОГ",
+        "image": "",
+        "url": "sistema-ochistki-og",
+        "items": [{
+          "categoryId": 100729,
+          "parentId": 100541,
+          "hasChildren": false,
+          "name": "Лямбда-регулирование",
+          "image": "",
+          "url": "lyambda-regulirovanie",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 100754,
+        "parentId": 100002,
+        "hasChildren": false,
+        "name": "Электроника двигателя",
+        "image": "",
+        "url": "elektronika-dvigatelya",
+        "items": []
+      },
+      {
+        "categoryId": 104302,
+        "parentId": 100002,
+        "hasChildren": true,
+        "name": "Ременный привод",
+        "image": "",
+        "url": "remennyj-privod",
+        "items": [{
+          "categoryId": 104329,
+          "parentId": 104302,
+          "hasChildren": false,
+          "name": "Ременный шкив",
+          "image": "",
+          "url": "remennyj-shkiv",
+          "items": []
+        }]
+      }
+    ]
+  },
+  {
+    "categoryId": 100004,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "Система выпуска",
+    "image": "",
+    "url": "sistema-vypuska",
+    "items": [{
+        "categoryId": 100048,
+        "parentId": 100004,
+        "hasChildren": false,
+        "name": "Лямбда-зонд",
+        "image": "",
+        "url": "lyambda-zond",
+        "items": []
+      },
+      {
+        "categoryId": 103414,
+        "parentId": 100004,
+        "hasChildren": false,
+        "name": "Датчик / зонд",
+        "image": "",
+        "url": "datchik-zond",
+        "items": []
+      }
+    ]
+  },
+  {
+    "categoryId": 100005,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "фильтр",
+    "image": "",
+    "url": "filtr",
+    "items": [{
+        "categoryId": 100259,
+        "parentId": 100005,
+        "hasChildren": false,
+        "name": "Масляный фильтр",
+        "image": "",
+        "url": "maslyanyj-filtr",
+        "items": []
+      },
+      {
+        "categoryId": 100260,
+        "parentId": 100005,
+        "hasChildren": false,
+        "name": "Воздушный фильтр",
+        "image": "",
+        "url": "vozdushnyj-filtr",
+        "items": []
+      },
+      {
+        "categoryId": 100261,
+        "parentId": 100005,
+        "hasChildren": false,
+        "name": "Топливный фильтр",
+        "image": "",
+        "url": "toplivnyj-filtr",
+        "items": []
+      },
+      {
+        "categoryId": 100262,
+        "parentId": 100005,
+        "hasChildren": false,
+        "name": "Гидравлический фильтр",
+        "image": "",
+        "url": "gidravlicheskij-filtr",
+        "items": []
+      },
+      {
+        "categoryId": 100263,
+        "parentId": 100005,
+        "hasChildren": false,
+        "name": "Фильтр салона",
+        "image": "",
+        "url": "filtr-salona",
+        "items": []
+      }
+    ]
+  },
+  {
+    "categoryId": 100006,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "тормозная система",
+    "image": "",
+    "url": "tormoznaya-sistema",
+    "items": [{
+        "categoryId": 100027,
+        "parentId": 100006,
+        "hasChildren": true,
+        "name": "Суппорт диского колесного тормозного механизма",
+        "image": "",
+        "url": "support-diskogo-kolesnogo-tormoznogo-mexanizma",
+        "items": [{
+            "categoryId": 100806,
+            "parentId": 100027,
+            "hasChildren": false,
+            "name": "Комплектующие",
+            "image": "",
+            "url": "komplektuyushhie",
+            "items": []
+          },
+          {
+            "categoryId": 100807,
+            "parentId": 100027,
+            "hasChildren": false,
+            "name": "Суппорт диского колесного тормозного механизма / -держатель",
+            "image": "",
+            "url": "support-diskogo-kolesnogo-tormoznogo-mexanizma-derzhatel",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 100035,
+        "parentId": 100006,
+        "hasChildren": false,
+        "name": "тормозные шланги",
+        "image": "",
+        "url": "tormoznye-shlangi",
+        "items": []
+      },
+      {
+        "categoryId": 100038,
+        "parentId": 100006,
+        "hasChildren": false,
+        "name": "Регулировка динамики движения",
+        "image": "",
+        "url": "regulirovka-dinamiki-dvizheniya",
+        "items": []
+      },
+      {
+        "categoryId": 100626,
+        "parentId": 100006,
+        "hasChildren": true,
+        "name": "Дисковой тормозной механизм",
+        "image": "",
+        "url": "diskovoj-tormoznoj-mexanizm",
+        "items": [{
+            "categoryId": 100030,
+            "parentId": 100626,
+            "hasChildren": false,
+            "name": "Тормозные колодки",
+            "image": "",
+            "url": "tormoznye-kolodki",
+            "items": []
+          },
+          {
+            "categoryId": 100032,
+            "parentId": 100626,
+            "hasChildren": false,
+            "name": "Тормозной диск",
+            "image": "",
+            "url": "disk-tormoznoj",
+            "items": []
+          },
+          {
+            "categoryId": 100630,
+            "parentId": 100626,
+            "hasChildren": false,
+            "name": "Комплектующие / составляющие",
+            "image": "",
+            "url": "komplektuyushhie-sostavlyayushhie",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 100635,
+        "parentId": 100006,
+        "hasChildren": false,
+        "name": "Рычаги / Тросы / Тяги",
+        "image": "",
+        "url": "rychagi-trosy-tyagi",
+        "items": []
+      },
+      {
+        "categoryId": 102208,
+        "parentId": 100006,
+        "hasChildren": false,
+        "name": "тормозная жидкость",
+        "image": "",
+        "url": "tormoznaya-zhidkost",
+        "items": []
+      },
+      {
+        "categoryId": 102248,
+        "parentId": 100006,
+        "hasChildren": false,
+        "name": "Выключатель фонаря сигнала торможения",
+        "image": "",
+        "url": "vyklyuchatel-fonarya-signala-tormozheniya",
+        "items": []
+      }
+    ]
+  },
+  {
+    "categoryId": 100007,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "Система охлаждения",
+    "image": "",
+    "url": "sistema-oxlazhdeniya",
+    "items": [{
+        "categoryId": 100088,
+        "parentId": 100007,
+        "hasChildren": true,
+        "name": "Водяной насос / прокладка",
+        "image": "",
+        "url": "vodyanoj-nasos-prokladka",
+        "items": [{
+          "categoryId": 100091,
+          "parentId": 100088,
+          "hasChildren": false,
+          "name": "Водяной насос",
+          "image": "",
+          "url": "vodyanoy_nasos",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 100094,
+        "parentId": 100007,
+        "hasChildren": true,
+        "name": "Термостат / прокладка",
+        "image": "",
+        "url": "termostat-prokladka",
+        "items": [{
+            "categoryId": 100095,
+            "parentId": 100094,
+            "hasChildren": false,
+            "name": "Термостат",
+            "image": "",
+            "url": "termostat",
+            "items": []
+          },
+          {
+            "categoryId": 100096,
+            "parentId": 100094,
+            "hasChildren": false,
+            "name": "Прокладка",
+            "image": "",
+            "url": "prokladka",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 100099,
+        "parentId": 100007,
+        "hasChildren": true,
+        "name": "Соединительные элементы / провода / фланцы",
+        "image": "",
+        "url": "soedinitelnye-elementy-provoda-flancy",
+        "items": [{
+          "categoryId": 100840,
+          "parentId": 100099,
+          "hasChildren": false,
+          "name": "Фланец",
+          "image": "",
+          "url": "flanec",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 100102,
+        "parentId": 100007,
+        "hasChildren": true,
+        "name": "Водяной / масляный радиатор",
+        "image": "",
+        "url": "vodyanoy-maslyanyy-radiator",
+        "items": [{
+            "categoryId": 100103,
+            "parentId": 100102,
+            "hasChildren": false,
+            "name": "Водяной радиатор",
+            "image": "",
+            "url": "vodyanoj-radiator",
+            "items": []
+          },
+          {
+            "categoryId": 100112,
+            "parentId": 100102,
+            "hasChildren": false,
+            "name": "Расширительный бачок",
+            "image": "",
+            "url": "rasshiritelnyj-bachok",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 100334,
+        "parentId": 100007,
+        "hasChildren": false,
+        "name": "Выключатель / датчик",
+        "image": "",
+        "url": "vyklyuchatel-datchik",
+        "items": []
+      },
+      {
+        "categoryId": 102205,
+        "parentId": 100007,
+        "hasChildren": false,
+        "name": "антифриз",
+        "image": "",
+        "url": "antifriz",
+        "items": []
+      }
+    ]
+  },
+  {
+    "categoryId": 100008,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "Система зажигания / накаливания",
+    "image": "",
+    "url": "sistema-zazhiganiya-nakalivaniya",
+    "items": [{
+        "categoryId": 100150,
+        "parentId": 100008,
+        "hasChildren": false,
+        "name": "Катушка зажигания / элемент катушки зажигания",
+        "image": "",
+        "url": "katushka-zazhiganiya-element-katushki-zazhiganiya",
+        "items": []
+      },
+      {
+        "categoryId": 100151,
+        "parentId": 100008,
+        "hasChildren": false,
+        "name": "Свеча зажигания",
+        "image": "",
+        "url": "svecha-zazhiganiya",
+        "items": []
+      },
+      {
+        "categoryId": 100153,
+        "parentId": 100008,
+        "hasChildren": false,
+        "name": "Кабель зажигания / элементы замыкания",
+        "image": "",
+        "url": "kabel-zazhiganiya-elementy-zamykaniya",
+        "items": []
+      },
+      {
+        "categoryId": 100246,
+        "parentId": 100008,
+        "hasChildren": false,
+        "name": "Усилитель искры в системе зажигания",
+        "image": "",
+        "url": "usilitel-iskry-v-sisteme-zazhiganiya",
+        "items": []
+      },
+      {
+        "categoryId": 100247,
+        "parentId": 100008,
+        "hasChildren": false,
+        "name": "Блок управления / реле",
+        "image": "",
+        "url": "blok-upravleniya-rele",
+        "items": []
+      },
+      {
+        "categoryId": 100249,
+        "parentId": 100008,
+        "hasChildren": false,
+        "name": "Генератор импульсов",
+        "image": "",
+        "url": "generator-impulsov",
+        "items": []
+      }
+    ]
+  },
+  {
+    "categoryId": 100010,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "Электрика",
+    "image": "",
+    "url": "elektrika",
+    "items": [{
+        "categoryId": 100041,
+        "parentId": 100010,
+        "hasChildren": true,
+        "name": "Генератор / составляющие",
+        "image": "",
+        "url": "generator-sostavlyayushhie",
+        "items": [{
+          "categoryId": 100350,
+          "parentId": 100041,
+          "hasChildren": false,
+          "name": "Генератор",
+          "image": "",
+          "url": "generator",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 100042,
+        "parentId": 100010,
+        "hasChildren": false,
+        "name": "Батарея",
+        "image": "",
+        "url": "batareya",
+        "items": []
+      },
+      {
+        "categoryId": 100043,
+        "parentId": 100010,
+        "hasChildren": true,
+        "name": "Система освещения / сигнализация",
+        "image": "",
+        "url": "sistema-osveshheniya-signalizaciya",
+        "items": [{
+            "categoryId": 100291,
+            "parentId": 100043,
+            "hasChildren": false,
+            "name": "Фонарь, установленный в двери",
+            "image": "",
+            "url": "fonar-ustanovlennyj-v-dveri",
+            "items": []
+          },
+          {
+            "categoryId": 100870,
+            "parentId": 100043,
+            "hasChildren": false,
+            "name": "дневное освещение",
+            "image": "",
+            "url": "dnevnoe-osveshhenie",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 100143,
+        "parentId": 100010,
+        "hasChildren": true,
+        "name": "Основная фара / комплектующие",
+        "image": "",
+        "url": "osnovnaya-fara-komplektuyushhie",
+        "items": [{
+            "categoryId": 100427,
+            "parentId": 100143,
+            "hasChildren": false,
+            "name": "Лампа накаливания основной фары",
+            "image": "",
+            "url": "lampa-nakalivaniya-osnovnoj-fary",
+            "items": []
+          },
+          {
+            "categoryId": 100433,
+            "parentId": 100143,
+            "hasChildren": false,
+            "name": "Основная фара / вставка",
+            "image": "",
+            "url": "osnovnaya-fara-vstavka",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 100307,
+        "parentId": 100010,
+        "hasChildren": true,
+        "name": "Выключатель / реле / блок управления освещения",
+        "image": "",
+        "url": "vyklyuchatel-rele-blok-upravleniya-osveshheniya",
+        "items": [{
+          "categoryId": 100509,
+          "parentId": 100307,
+          "hasChildren": false,
+          "name": "Выключатель",
+          "image": "",
+          "url": "vyklyuchatel",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 100322,
+        "parentId": 100010,
+        "hasChildren": true,
+        "name": "Контрольные приборы",
+        "image": "",
+        "url": "kontrolnye-pribory",
+        "items": [{
+          "categoryId": 100553,
+          "parentId": 100322,
+          "hasChildren": false,
+          "name": "Датчики / переключатели",
+          "image": "",
+          "url": "datchiki-pereklyuchateli",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 100353,
+        "parentId": 100010,
+        "hasChildren": true,
+        "name": "Система стартера",
+        "image": "",
+        "url": "sistema-startera",
+        "items": [{
+          "categoryId": 100359,
+          "parentId": 100353,
+          "hasChildren": false,
+          "name": "Стартер",
+          "image": "",
+          "url": "starter",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 100787,
+        "parentId": 100010,
+        "hasChildren": true,
+        "name": "Дополнительная фара/ комплектующие",
+        "image": "",
+        "url": "dopolnitelnaya-fara-komplektuyushhie",
+        "items": [{
+          "categoryId": 102671,
+          "parentId": 100787,
+          "hasChildren": false,
+          "name": "Фара с автоматической системой стабилизации/запчасти",
+          "image": "",
+          "url": "fara-s-avtomaticheskoj-sistemoj-stabilizacii-zapchasti",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 102747,
+        "parentId": 100010,
+        "hasChildren": false,
+        "name": "Датчики",
+        "image": "",
+        "url": "datchiki",
+        "items": []
+      }
+    ]
+  },
+  {
+    "categoryId": 100011,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "Подвеска / амортизация",
+    "image": "",
+    "url": "podveska-amortizaciya",
+    "items": [{
+        "categoryId": 100113,
+        "parentId": 100011,
+        "hasChildren": false,
+        "name": "Подвеска",
+        "image": "",
+        "url": "podveska",
+        "items": []
+      },
+      {
+        "categoryId": 100121,
+        "parentId": 100011,
+        "hasChildren": false,
+        "name": "Амортизатор",
+        "image": "",
+        "url": "amortizator",
+        "items": []
+      },
+      {
+        "categoryId": 100340,
+        "parentId": 100011,
+        "hasChildren": false,
+        "name": "Регулировка дорожного просвета, подвески, гидравлическая",
+        "image": "",
+        "url": "regulirovka-dorozhnogo-prosveta-podveski-gidravlicheskaya",
+        "items": []
+      },
+      {
+        "categoryId": 100371,
+        "parentId": 100011,
+        "hasChildren": false,
+        "name": "Подвеска амортизатора/стойка амортизатора",
+        "image": "",
+        "url": "podveska-amortizatora-stojka-amortizatora",
+        "items": []
+      },
+      {
+        "categoryId": 100381,
+        "parentId": 100011,
+        "hasChildren": true,
+        "name": "Стойка амортизатора / амортизатор /-составные части",
+        "image": "",
+        "url": "stojka-amortizatora-amortizator-sostavnye-chasti",
+        "items": [{
+          "categoryId": 100372,
+          "parentId": 100381,
+          "hasChildren": false,
+          "name": "Навесные части",
+          "image": "",
+          "url": "navesnye-chasti",
+          "items": []
+        }]
+      }
+    ]
+  },
+  {
+    "categoryId": 100012,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "рулевое управления",
+    "image": "",
+    "url": "rulevoe-upravleniya",
+    "items": [{
+        "categoryId": 100198,
+        "parentId": 100012,
+        "hasChildren": false,
+        "name": "Шарниры",
+        "image": "",
+        "url": "sharniry",
+        "items": []
+      },
+      {
+        "categoryId": 100199,
+        "parentId": 100012,
+        "hasChildren": false,
+        "name": "Рулевой механизм / насос",
+        "image": "",
+        "url": "rulevoj-mexanizm-nasos",
+        "items": []
+      },
+      {
+        "categoryId": 100201,
+        "parentId": 100012,
+        "hasChildren": false,
+        "name": "Гофрированный кожух / прокладки",
+        "image": "",
+        "url": "gofrirovannyj-kozhux-prokladki",
+        "items": []
+      },
+      {
+        "categoryId": 100591,
+        "parentId": 100012,
+        "hasChildren": false,
+        "name": "Фильтр рулевого управления",
+        "image": "",
+        "url": "filtr-rulevogo-upravleniya",
+        "items": []
+      },
+      {
+        "categoryId": 100601,
+        "parentId": 100012,
+        "hasChildren": true,
+        "name": "Рулевая тяга / составляющие",
+        "image": "",
+        "url": "rulevaya-tyaga-sostavlyayushhie",
+        "items": [{
+            "categoryId": 100197,
+            "parentId": 100601,
+            "hasChildren": false,
+            "name": "Рулевая тяга",
+            "image": "",
+            "url": "rulevaya-tyaga",
+            "items": []
+          },
+          {
+            "categoryId": 100603,
+            "parentId": 100601,
+            "hasChildren": false,
+            "name": "Отдельные элементы рулевой тяги",
+            "image": "",
+            "url": "otdelnye-elementy-rulevoj-tyagi",
+            "items": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryId": 100013,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "Подвеска оси / система подвески / колеса",
+    "image": "",
+    "url": "podveska-osi-sistema-podveski-kolesa",
+    "items": [{
+        "categoryId": 100206,
+        "parentId": 100013,
+        "hasChildren": true,
+        "name": "Ступица колеса / установка",
+        "image": "",
+        "url": "stupica-kolesa-ustanovka",
+        "items": [{
+          "categoryId": 100579,
+          "parentId": 100206,
+          "hasChildren": false,
+          "name": "Подшипник ступицы колеса",
+          "image": "",
+          "url": "podshipnik-stupicy-kolesa",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 100208,
+        "parentId": 100013,
+        "hasChildren": true,
+        "name": "Подвеска поперечного рычага",
+        "image": "",
+        "url": "podveska-poperechnogo-rychaga",
+        "items": [{
+            "categoryId": 100571,
+            "parentId": 100208,
+            "hasChildren": false,
+            "name": "Рычаг (поперечный, диагональный, продольный)",
+            "image": "",
+            "url": "rychag-poperechnyj-diagonalnyj-prodolnyj",
+            "items": []
+          },
+          {
+            "categoryId": 100572,
+            "parentId": 100208,
+            "hasChildren": false,
+            "name": "Подвеска / крепление ходовой части",
+            "image": "",
+            "url": "podveska-kreplenie-xodovoj-chasti",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 100209,
+        "parentId": 100013,
+        "hasChildren": false,
+        "name": "Стойки / тяги",
+        "image": "",
+        "url": "stojki-tyagi",
+        "items": []
+      },
+      {
+        "categoryId": 100210,
+        "parentId": 100013,
+        "hasChildren": true,
+        "name": "Стабилизатор / детали крепежа",
+        "image": "",
+        "url": "stabilizator-detali-krepezha",
+        "items": [{
+            "categoryId": 100577,
+            "parentId": 100210,
+            "hasChildren": false,
+            "name": "Соединительная тяга",
+            "image": "",
+            "url": "soedinitelnaya-tyaga",
+            "items": []
+          },
+          {
+            "categoryId": 100590,
+            "parentId": 100210,
+            "hasChildren": false,
+            "name": "Стойка стабилизатора",
+            "image": "",
+            "url": "stojka-stabilizatora",
+            "items": []
+          },
+          {
+            "categoryId": 100596,
+            "parentId": 100210,
+            "hasChildren": false,
+            "name": "Детали крепежа",
+            "image": "",
+            "url": "detali-krepezha",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 100211,
+        "parentId": 100013,
+        "hasChildren": true,
+        "name": "Шарнирные элементы",
+        "image": "",
+        "url": "sharnirnye-elementy",
+        "items": [{
+          "categoryId": 100581,
+          "parentId": 100211,
+          "hasChildren": false,
+          "name": "Шарнир независимой подвески / поворотного рычага",
+          "image": "",
+          "url": "sharnir-nezavisimoj-podveski-povorotnogo-rychaga",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 100212,
+        "parentId": 100013,
+        "hasChildren": true,
+        "name": "Балка моста / подвеска оси",
+        "image": "",
+        "url": "balka-mosta-podveska-osi",
+        "items": [{
+          "categoryId": 100586,
+          "parentId": 100212,
+          "hasChildren": false,
+          "name": "Подвеска",
+          "image": "",
+          "url": "podveska",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 100213,
+        "parentId": 100013,
+        "hasChildren": false,
+        "name": "Колесо / крепление колеса",
+        "image": "",
+        "url": "koleso-kreplenie-kolesa",
+        "items": []
+      },
+      {
+        "categoryId": 100735,
+        "parentId": 100013,
+        "hasChildren": false,
+        "name": "Подвеска / крепление стойки амортизатора",
+        "image": "",
+        "url": "podveska-kreplenie-stojki-amortizatora",
+        "items": []
+      },
+      {
+        "categoryId": 100758,
+        "parentId": 100013,
+        "hasChildren": false,
+        "name": "Растяжка поперечного рычага",
+        "image": "",
+        "url": "rastyazhka-poperechnogo-rychaga",
+        "items": []
+      },
+      {
+        "categoryId": 102733,
+        "parentId": 100013,
+        "hasChildren": false,
+        "name": "Расширение колеи",
+        "image": "",
+        "url": "rasshirenie-kolei",
+        "items": []
+      }
+    ]
+  },
+  {
+    "categoryId": 100014,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "Привод колеса",
+    "image": "",
+    "url": "privod-kolesa",
+    "items": [{
+        "categoryId": 100062,
+        "parentId": 100014,
+        "hasChildren": false,
+        "name": "Приводной вал",
+        "image": "",
+        "url": "privodnoj-val",
+        "items": []
+      },
+      {
+        "categoryId": 100074,
+        "parentId": 100014,
+        "hasChildren": false,
+        "name": "Пыльник",
+        "image": "",
+        "url": "pylnik",
+        "items": []
+      }
+    ]
+  },
+  {
+    "categoryId": 100016,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "Ременный привод",
+    "image": "",
+    "url": "remennyj-privod",
+    "items": [{
+        "categoryId": 100082,
+        "parentId": 100016,
+        "hasChildren": true,
+        "name": "Поликлиновой  ремень / комплект",
+        "image": "",
+        "url": "poliklinovoj-remen-komplekt",
+        "items": [{
+            "categoryId": 100431,
+            "parentId": 100082,
+            "hasChildren": false,
+            "name": "Поликлиновый ремень",
+            "image": "",
+            "url": "poliklinovyj-remen",
+            "items": []
+          },
+          {
+            "categoryId": 100432,
+            "parentId": 100082,
+            "hasChildren": false,
+            "name": "Комплект ручейковых ремней",
+            "image": "",
+            "url": "komplekt-ruchejkovyx-remnej",
+            "items": []
+          },
+          {
+            "categoryId": 100434,
+            "parentId": 100082,
+            "hasChildren": false,
+            "name": "Ролик натяжителя",
+            "image": "",
+            "url": "rolik-natyazhitelya",
+            "items": []
+          },
+          {
+            "categoryId": 100435,
+            "parentId": 100082,
+            "hasChildren": false,
+            "name": "Паразитный / ведущий ролик",
+            "image": "",
+            "url": "parazitnyj-vedushhij-rolik",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 100085,
+        "parentId": 100016,
+        "hasChildren": true,
+        "name": "Ремень ГРМ / комплект",
+        "image": "",
+        "url": "remen-grm-komplekt",
+        "items": [{
+            "categoryId": 100452,
+            "parentId": 100085,
+            "hasChildren": false,
+            "name": "Ремень ГРМ",
+            "image": "",
+            "url": "remen-grm",
+            "items": []
+          },
+          {
+            "categoryId": 100453,
+            "parentId": 100085,
+            "hasChildren": false,
+            "name": "Комплект ремней ГРМ",
+            "image": "",
+            "url": "komplekt-remnej-grm",
+            "items": []
+          },
+          {
+            "categoryId": 100455,
+            "parentId": 100085,
+            "hasChildren": false,
+            "name": "Ролик натяжителя",
+            "image": "",
+            "url": "rolik-natyazhitelya",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 101971,
+        "parentId": 100016,
+        "hasChildren": false,
+        "name": "Ременный шкив",
+        "image": "",
+        "url": "remennyj-shkiv",
+        "items": []
+      }
+    ]
+  },
+  {
+    "categoryId": 100018,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "Система очистки окон",
+    "image": "",
+    "url": "sistema-ochistki-okon",
+    "items": [{
+      "categoryId": 100133,
+      "parentId": 100018,
+      "hasChildren": false,
+      "name": "Стеклоочиститель / резина",
+      "image": "",
+      "url": "stekloochistitel-rezina",
+      "items": []
+    }]
+  },
+  {
+    "categoryId": 100019,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "Детали для сервиса / ТО / ухода",
+    "image": "",
+    "url": "detali-dlya-servisa-to-uxoda",
+    "items": [{
+        "categoryId": 100597,
+        "parentId": 100019,
+        "hasChildren": false,
+        "name": "Интервал регулировки",
+        "image": "",
+        "url": "interval-regulirovki",
+        "items": []
+      },
+      {
+        "categoryId": 100598,
+        "parentId": 100019,
+        "hasChildren": false,
+        "name": "Дополнительные работы",
+        "image": "",
+        "url": "dopolnitelnye-raboty",
+        "items": []
+      }
+    ]
+  },
+  {
+    "categoryId": 100050,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "Система сцепления / навесные части",
+    "image": "",
+    "url": "sistema-scepleniya-navesnye-chasti",
+    "items": [{
+        "categoryId": 100051,
+        "parentId": 100050,
+        "hasChildren": false,
+        "name": "Комплект сцепления",
+        "image": "",
+        "url": "komplekt-scepleniya",
+        "items": []
+      },
+      {
+        "categoryId": 100054,
+        "parentId": 100050,
+        "hasChildren": true,
+        "name": "Подшипник выключения сцепления / Центральный выключатель",
+        "image": "",
+        "url": "podshipnik-vyklyucheniya-scepleniya-centralnyj-vyklyuchatel",
+        "items": [{
+          "categoryId": 100237,
+          "parentId": 100054,
+          "hasChildren": false,
+          "name": "Центральный выключатель",
+          "image": "",
+          "url": "centralnyj-vyklyuchatel",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 100079,
+        "parentId": 100050,
+        "hasChildren": true,
+        "name": "Система управления сцеплением",
+        "image": "",
+        "url": "sistema-upravleniya-scepleniem",
+        "items": [{
+          "categoryId": 100061,
+          "parentId": 100079,
+          "hasChildren": false,
+          "name": "Главный цилиндр",
+          "image": "",
+          "url": "glavnyj-cilindr",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 104813,
+        "parentId": 100050,
+        "hasChildren": false,
+        "name": "Гидрожидкость",
+        "image": "",
+        "url": "gidrozhidkost",
+        "items": []
+      }
+    ]
+  },
+  {
+    "categoryId": 100214,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "система подачи топлива",
+    "image": "",
+    "url": "sistema-podachi-topliva",
+    "items": [{
+        "categoryId": 100251,
+        "parentId": 100214,
+        "hasChildren": true,
+        "name": "Насос / комплектующие",
+        "image": "",
+        "url": "nasos-komplektuyushhie",
+        "items": [{
+          "categoryId": 100717,
+          "parentId": 100251,
+          "hasChildren": false,
+          "name": "Топливный насос",
+          "image": "",
+          "url": "toplivnyj-nasos",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 100253,
+        "parentId": 100214,
+        "hasChildren": false,
+        "name": "Топливный фильтр/ корпус",
+        "image": "",
+        "url": "toplivnyj-filtr-korpus",
+        "items": []
+      },
+      {
+        "categoryId": 100267,
+        "parentId": 100214,
+        "hasChildren": false,
+        "name": "Трубка забора топлива в сборе",
+        "image": "",
+        "url": "trubka-zabora-topliva-v-sbore",
+        "items": []
+      }
+    ]
+  },
+  {
+    "categoryId": 100238,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "Коробка передач",
+    "image": "",
+    "url": "korobka-peredach",
+    "items": [{
+        "categoryId": 100239,
+        "parentId": 100238,
+        "hasChildren": true,
+        "name": "Ступенчатая коробка передач",
+        "image": "",
+        "url": "stupenchataya-korobka-peredach",
+        "items": [{
+            "categoryId": 100769,
+            "parentId": 100239,
+            "hasChildren": false,
+            "name": "Прокладки",
+            "image": "",
+            "url": "prokladki",
+            "items": []
+          },
+          {
+            "categoryId": 100772,
+            "parentId": 100239,
+            "hasChildren": false,
+            "name": "Подвеска",
+            "image": "",
+            "url": "podveska",
+            "items": []
+          },
+          {
+            "categoryId": 101993,
+            "parentId": 100239,
+            "hasChildren": false,
+            "name": "Масла",
+            "image": "",
+            "url": "masla",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 100240,
+        "parentId": 100238,
+        "hasChildren": true,
+        "name": "Автоматическая коробка передач",
+        "image": "",
+        "url": "avtomaticheskaya-korobka-peredach",
+        "items": [{
+            "categoryId": 100773,
+            "parentId": 100240,
+            "hasChildren": false,
+            "name": "Подвеска",
+            "image": "",
+            "url": "podveska",
+            "items": []
+          },
+          {
+            "categoryId": 100776,
+            "parentId": 100240,
+            "hasChildren": false,
+            "name": "Управление/гидравлика",
+            "image": "",
+            "url": "upravlenie-gidravlika",
+            "items": []
+          },
+          {
+            "categoryId": 101815,
+            "parentId": 100240,
+            "hasChildren": false,
+            "name": "Масла",
+            "image": "",
+            "url": "masla",
+            "items": []
+          },
+          {
+            "categoryId": 103109,
+            "parentId": 100240,
+            "hasChildren": false,
+            "name": "радиатор",
+            "image": "",
+            "url": "radiator",
+            "items": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryId": 100241,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "Отопление / вентиляция",
+    "image": "",
+    "url": "otoplenie-ventilyaciya",
+    "items": [{
+      "categoryId": 100346,
+      "parentId": 100241,
+      "hasChildren": false,
+      "name": "Фильтр салона",
+      "image": "",
+      "url": "filtr-salona",
+      "items": []
+    }]
+  },
+  {
+    "categoryId": 100243,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "Кондиционер",
+    "image": "",
+    "url": "kondicioner",
+    "items": [{
+        "categoryId": 100354,
+        "parentId": 100243,
+        "hasChildren": false,
+        "name": "Компрессор/детали",
+        "image": "",
+        "url": "kompressor-detali",
+        "items": []
+      },
+      {
+        "categoryId": 100355,
+        "parentId": 100243,
+        "hasChildren": false,
+        "name": "Конденсатор",
+        "image": "",
+        "url": "kondensator",
+        "items": []
+      },
+      {
+        "categoryId": 100356,
+        "parentId": 100243,
+        "hasChildren": false,
+        "name": "Испаритель",
+        "image": "",
+        "url": "isparitel",
+        "items": []
+      }
+    ]
+  },
+  {
+    "categoryId": 100254,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "Подготовка топливной смеси",
+    "image": "",
+    "url": "podgotovka-toplivnoj-smesi",
+    "items": [{
+        "categoryId": 100790,
+        "parentId": 100254,
+        "hasChildren": true,
+        "name": "Нейтрализация ОГ",
+        "image": "",
+        "url": "nejtralizaciya-og",
+        "items": [{
+          "categoryId": 100793,
+          "parentId": 100790,
+          "hasChildren": false,
+          "name": "Лямбда-регулирование",
+          "image": "",
+          "url": "lyambda-regulirovanie",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 102793,
+        "parentId": 100254,
+        "hasChildren": true,
+        "name": "Приготовление смеси",
+        "image": "",
+        "url": "prigotovlenie-smesi",
+        "items": [{
+            "categoryId": 102796,
+            "parentId": 102793,
+            "hasChildren": false,
+            "name": "Фланец / патрубок / вакуумный трубопровод",
+            "image": "",
+            "url": "flanec-patrubok-vakuumnyj-truboprovod",
+            "items": []
+          },
+          {
+            "categoryId": 102799,
+            "parentId": 102793,
+            "hasChildren": false,
+            "name": "Клапан форсунки / форсунка / шток форсунки / PDE",
+            "image": "",
+            "url": "klapan-forsunki-forsunka-shtok-forsunki-pde",
+            "items": []
+          },
+          {
+            "categoryId": 102806,
+            "parentId": 102793,
+            "hasChildren": false,
+            "name": "Датчик контроля массы / объема воздуха",
+            "image": "",
+            "url": "datchik-kontrolya-massy-obema-vozduxa",
+            "items": []
+          },
+          {
+            "categoryId": 102809,
+            "parentId": 102793,
+            "hasChildren": false,
+            "name": "Датчик / зонд",
+            "image": "",
+            "url": "datchik-zond",
+            "items": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryId": 100335,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "Дополнительные удобства",
+    "image": "",
+    "url": "dopolnitelnye-udobstva",
+    "items": [{
+        "categoryId": 100614,
+        "parentId": 100335,
+        "hasChildren": false,
+        "name": "Автономное отопление",
+        "image": "",
+        "url": "avtonomnoe-otoplenie",
+        "items": []
+      },
+      {
+        "categoryId": 100615,
+        "parentId": 100335,
+        "hasChildren": false,
+        "name": "Система регулировки скорости",
+        "image": "",
+        "url": "sistema-regulirovki-skorosti",
+        "items": []
+      },
+      {
+        "categoryId": 104156,
+        "parentId": 100335,
+        "hasChildren": true,
+        "name": "Двигатель / реле/выключатель",
+        "image": "",
+        "url": "dvigatel-rele-vyklyuchatel",
+        "items": [{
+          "categoryId": 104163,
+          "parentId": 104156,
+          "hasChildren": false,
+          "name": "Система регулировки скорости",
+          "image": "",
+          "url": "sistema-regulirovki-skorosti",
+          "items": []
+        }]
+      }
+    ]
+  },
+  {
+    "categoryId": 100341,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "Внутренняя отделка",
+    "image": "",
+    "url": "vnutrennyaya-otdelka",
+    "items": [{
+      "categoryId": 102697,
+      "parentId": 100341,
+      "hasChildren": false,
+      "name": "Багажник / помещение для груза",
+      "image": "",
+      "url": "bagazhnik-pomeshhenie-dlya-gruza",
+      "items": []
+    }]
+  },
+  {
+    "categoryId": 100440,
+    "parentId": 10001,
+    "hasChildren": false,
+    "name": "Противотуманная фара / вставка",
+    "image": "",
+    "url": "protivotumannaya-fara-vstavka",
+    "items": []
+  },
+  {
+    "categoryId": 100442,
+    "parentId": 10001,
+    "hasChildren": false,
+    "name": "Лампа накаливания фара дальнего света",
+    "image": "",
+    "url": "lampa-nakalivaniya-fara-dalnego-sveta",
+    "items": []
+  },
+  {
+    "categoryId": 100447,
+    "parentId": 10001,
+    "hasChildren": false,
+    "name": "Противотуманная фара лампа накаливания",
+    "image": "",
+    "url": "protivotumannaya-fara-lampa-nakalivaniya",
+    "items": []
+  },
+  {
+    "categoryId": 100448,
+    "parentId": 10001,
+    "hasChildren": false,
+    "name": "Лампа накаливания фары рабочего освещения",
+    "image": "",
+    "url": "lampa-nakalivaniya-fary-rabochego-osveshheniya",
+    "items": []
+  },
+  {
+    "categoryId": 100733,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "Комплектующие",
+    "image": "",
+    "url": "komplektuyushhie",
+    "items": [{
+      "categoryId": 100862,
+      "parentId": 100733,
+      "hasChildren": false,
+      "name": "Багажник / пространство для груза",
+      "image": "",
+      "url": "bagazhnik-prostranstvo-dlya-gruza",
+      "items": []
+    }]
+  },
+  {
+    "categoryId": 103099,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "Колёса / шины",
+    "image": "",
+    "url": "kolyosa-shiny",
+    "items": [{
+      "categoryId": 103102,
+      "parentId": 103099,
+      "hasChildren": false,
+      "name": "Комплектующие",
+      "image": "",
+      "url": "komplektuyushhie",
+      "items": []
+    }]
+  },
+  {
+    "categoryId": 103671,
+    "parentId": 10001,
+    "hasChildren": true,
+    "name": "Мотоцикл",
+    "image": "",
+    "url": "motocikl",
+    "items": [{
+        "categoryId": 103672,
+        "parentId": 103671,
+        "hasChildren": true,
+        "name": "тормозная система",
+        "image": "",
+        "url": "tormoznaya-sistema",
+        "items": [{
+            "categoryId": 104082,
+            "parentId": 103672,
+            "hasChildren": false,
+            "name": "Тормозной диск  / принадлежности",
+            "image": "",
+            "url": "tormoznoj-disk-prinadlezhnosti",
+            "items": []
+          },
+          {
+            "categoryId": 104083,
+            "parentId": 103672,
+            "hasChildren": false,
+            "name": "Тормозная колодка / накладка",
+            "image": "",
+            "url": "tormoznaya-kolodka-nakladka",
+            "items": []
+          },
+          {
+            "categoryId": 104084,
+            "parentId": 103672,
+            "hasChildren": false,
+            "name": "Тормозной суппорт / принадлежности",
+            "image": "",
+            "url": "tormoznoj-support-prinadlezhnosti",
+            "items": []
+          },
+          {
+            "categoryId": 104087,
+            "parentId": 103672,
+            "hasChildren": false,
+            "name": "Тормозные линии / шланги / приспособления",
+            "image": "",
+            "url": "tormoznye-linii-shlangi-prisposobleniya",
+            "items": []
+          },
+          {
+            "categoryId": 104281,
+            "parentId": 103672,
+            "hasChildren": false,
+            "name": "Регулировка динамики движения",
+            "image": "",
+            "url": "regulirovka-dinamiki-dvizheniya",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 103712,
+        "parentId": 103671,
+        "hasChildren": true,
+        "name": "Система сцепления / навесные части",
+        "image": "",
+        "url": "sistema-scepleniya-navesnye-chasti",
+        "items": [{
+          "categoryId": 104245,
+          "parentId": 103712,
+          "hasChildren": false,
+          "name": "Комплект сцепления",
+          "image": "",
+          "url": "komplekt-scepleniya",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 103777,
+        "parentId": 103671,
+        "hasChildren": true,
+        "name": "фильтр",
+        "image": "",
+        "url": "filtr",
+        "items": [{
+            "categoryId": 103779,
+            "parentId": 103777,
+            "hasChildren": false,
+            "name": "Масляный фильтр",
+            "image": "",
+            "url": "maslyanyj-filtr",
+            "items": []
+          },
+          {
+            "categoryId": 103780,
+            "parentId": 103777,
+            "hasChildren": false,
+            "name": "Воздушный фильтр",
+            "image": "",
+            "url": "vozdushnyj-filtr",
+            "items": []
+          },
+          {
+            "categoryId": 103781,
+            "parentId": 103777,
+            "hasChildren": false,
+            "name": "Топливный фильтр",
+            "image": "",
+            "url": "toplivnyj-filtr",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 103814,
+        "parentId": 103671,
+        "hasChildren": true,
+        "name": "Двигатель",
+        "image": "",
+        "url": "dvigatel",
+        "items": [{
+          "categoryId": 104263,
+          "parentId": 103814,
+          "hasChildren": false,
+          "name": "Электроника двигателя",
+          "image": "",
+          "url": "elektronika-dvigatelya",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 103879,
+        "parentId": 103671,
+        "hasChildren": true,
+        "name": "Система выпуска",
+        "image": "",
+        "url": "sistema-vypuska",
+        "items": [{
+          "categoryId": 103988,
+          "parentId": 103879,
+          "hasChildren": false,
+          "name": "Лямбда-зонд",
+          "image": "",
+          "url": "lyambda-zond",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 103881,
+        "parentId": 103671,
+        "hasChildren": true,
+        "name": "Система охлаждения",
+        "image": "",
+        "url": "sistema-oxlazhdeniya",
+        "items": [{
+            "categoryId": 104075,
+            "parentId": 103881,
+            "hasChildren": false,
+            "name": "Выключатель / датчик",
+            "image": "",
+            "url": "vyklyuchatel-datchik",
+            "items": []
+          },
+          {
+            "categoryId": 104080,
+            "parentId": 103881,
+            "hasChildren": false,
+            "name": "антифриз",
+            "image": "",
+            "url": "antifriz",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 103895,
+        "parentId": 103671,
+        "hasChildren": true,
+        "name": "Подвеска / амортизация",
+        "image": "",
+        "url": "podveska-amortizaciya",
+        "items": [{
+          "categoryId": 103897,
+          "parentId": 103895,
+          "hasChildren": false,
+          "name": "Амортизатор",
+          "image": "",
+          "url": "amortizator",
+          "items": []
+        }]
+      },
+      {
+        "categoryId": 103931,
+        "parentId": 103671,
+        "hasChildren": true,
+        "name": "Система зажигания",
+        "image": "",
+        "url": "sistema-zazhiganiya",
+        "items": [{
+            "categoryId": 103934,
+            "parentId": 103931,
+            "hasChildren": false,
+            "name": "Катушка зажигания / элемент катушки зажигания",
+            "image": "",
+            "url": "katushka-zazhiganiya-element-katushki-zazhiganiya",
+            "items": []
+          },
+          {
+            "categoryId": 103935,
+            "parentId": 103931,
+            "hasChildren": false,
+            "name": "Свеча зажигания",
+            "image": "",
+            "url": "svecha-zazhiganiya",
+            "items": []
+          },
+          {
+            "categoryId": 103937,
+            "parentId": 103931,
+            "hasChildren": false,
+            "name": "Кабель зажигания / элементы замыкания",
+            "image": "",
+            "url": "kabel-zazhiganiya-elementy-zamykaniya",
+            "items": []
+          },
+          {
+            "categoryId": 103938,
+            "parentId": 103931,
+            "hasChildren": false,
+            "name": "Усилитель искры в системе зажигания",
+            "image": "",
+            "url": "usilitel-iskry-v-sisteme-zazhiganiya",
+            "items": []
+          },
+          {
+            "categoryId": 103939,
+            "parentId": 103931,
+            "hasChildren": false,
+            "name": "Блок управления / реле",
+            "image": "",
+            "url": "blok-upravleniya-rele",
+            "items": []
+          },
+          {
+            "categoryId": 103940,
+            "parentId": 103931,
+            "hasChildren": false,
+            "name": "Генератор импульсов",
+            "image": "",
+            "url": "generator-impulsov",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 103952,
+        "parentId": 103671,
+        "hasChildren": true,
+        "name": "Электрика",
+        "image": "",
+        "url": "elektrika",
+        "items": [{
+            "categoryId": 103966,
+            "parentId": 103952,
+            "hasChildren": false,
+            "name": "Батарея",
+            "image": "",
+            "url": "batareya",
+            "items": []
+          },
+          {
+            "categoryId": 104264,
+            "parentId": 103952,
+            "hasChildren": false,
+            "name": "Датчики",
+            "image": "",
+            "url": "datchiki",
+            "items": []
+          }
+        ]
+      },
+      {
+        "categoryId": 103969,
+        "parentId": 103671,
+        "hasChildren": true,
+        "name": "Колёса / шины",
+        "image": "",
+        "url": "kolyosa-shiny",
+        "items": [{
+          "categoryId": 103972,
+          "parentId": 103969,
+          "hasChildren": false,
+          "name": "Комплектующие",
+          "image": "",
+          "url": "komplektuyushhie",
+          "items": []
+        }]
+      }
+    ]
+  }
+]
