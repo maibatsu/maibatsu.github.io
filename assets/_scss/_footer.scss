@@ -1,0 +1,25 @@
+// Copyright © 2017. All rights reserved.
+// Author: Andrei Orlov <andyorlov@ya.ru>
+
+.footer {
+  min-height: 140px;
+  margin-top: 20px;
+  padding: 20px;
+  color: #f8f8f2;
+  background-color: #4a4a4a;
+  font-size: 20px;
+
+  &__body {
+    display: flex;
+  }
+}
+
+@media (max-width: 575px) {
+  .footer {
+    font-size: 14px;
+
+    &__body {
+      flex-direction: column;
+    }
+  }
+}

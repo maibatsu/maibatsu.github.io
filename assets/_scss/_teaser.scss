@@ -1,0 +1,72 @@
+// Copyright © 2017. All rights reserved.
+// Author: Andrei Orlov <andyorlov@ya.ru>
+
+.teaser {
+  display: block;
+  text-decoration: none;
+  color: #000;
+  font-family: "Roboto Mono", monospace;
+  height: 500px;
+
+  &--small {
+    height: calc(700px / 2 - 0.5rem);
+  }
+
+  &--big {
+    height: 700px;
+  }
+
+  &:hover {
+    color: #f76e1e;
+
+    & > .teaser__picture {
+      box-shadow: 0 9px 27px 0 rgba(0, 0, 0, 0.5);
+    }
+  }
+
+  &__picture {
+    display: block;
+    width: 100%;
+    object-fit: cover;
+    margin: auto;
+    height: calc(500px - 45px);
+  }
+
+  &--big {
+    .teaser__picture {
+      height: calc(700px - 45px);
+    }
+  }
+
+  &--small {
+    .teaser__picture {
+      height: calc(340px - 45px);
+    }
+  }
+
+  &__title {
+    font-size: 20px;
+    line-height: 1.5;
+    margin-top: 0.7rem;
+
+    & > p {
+      margin: 0;
+    }
+  }
+}
+
+@media (max-width: 992px) {
+  .teaser {
+    &__title {
+      font-size: 18px;
+    }
+  }
+}
+
+@media (max-width: 576px) {
+  .teaser {
+    &__title {
+      font-size: 16px;
+    }
+  }
+}

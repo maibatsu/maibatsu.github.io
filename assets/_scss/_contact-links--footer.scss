@@ -1,0 +1,34 @@
+// Copyright © 2017. All rights reserved.
+// Author: Andrei Orlov <andyorlov@ya.ru>
+
+.contact-links {
+  $root: &;
+
+  &--footer {
+    margin-left: auto;
+
+    #{$root}__item {
+      display: inline-block;
+      width: 30px;
+      height: auto;
+      text-decoration: none;
+      line-height: 1;
+
+      & + & {
+        margin-left: 1rem;
+      }
+
+      & > svg path {
+        fill: #f8f8f2;
+      }
+    }
+  }
+}
+
+@media (max-width: 575px) {
+  .contact-links {
+    &--footer {
+      margin: 1.2rem auto 0;
+    }
+  }
+}

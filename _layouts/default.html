@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="yandex-verification" content="5bc138c7c9a12c32" />
+
+    <!-- Social -->
+    <title>{{ site.title }}</title>
+    <meta name="description" content="Верстаю адаптивные сайты, нахожусь в Санкт-Петербурге." />
+    <meta name="url" content="{{ site.url }}">
+    <meta property="og:title" content="{{ site.title }}" />
+    <meta property="og:description" content="Верстаю адаптивные сайты, нахожусь в Санкт-Петербурге." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://maibatsu.github.io/img/share-pic.png" />
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{{ site.title }}">
+    <meta name="twitter:description" content="Верстаю адаптивные сайты, нахожусь в Санкт-Петербурге.">
+    <meta name="twitter:image" content="https://maibatsu.github.io/img/share-pic.png">
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="assets/img/favicons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="assets/img/favicons/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/manifest.webmanifest">
+
+    <!-- Styles -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono:400,700&amp;subset=cyrillic" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/main.css">
+  </head>
+
+  <body class="{{ page.body-class }}">
+
+    {% include top-line.html %}
+
+    <main>
+
+      {{ content }}
+
+    </main>
+
+    {% include footer.html %} {% include analytics.html %}
+
+    <script>
+      console.log('%c Открыт для предложений! 🌝', 'background-color: #fabe50; color: #333; font-weight: bold;');
+    </script>
+  </body>
+
+</html>

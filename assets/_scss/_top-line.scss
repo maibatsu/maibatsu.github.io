@@ -1,0 +1,27 @@
+// Copyright © 2017. All rights reserved.
+// Author: Andrei Orlov <andyorlov@ya.ru>
+
+.home-page > .top-line {
+  display: none;
+}
+
+.top-line {
+  // margin-bottom: 20px;
+  // padding: 1em 0;
+  background-image: url(/assets/img/mask.svg);
+  background-repeat: repeat-x;
+  background-position: top left;
+  background-size: auto 100%;
+
+  &__nav {
+    display: inline-block;
+
+    & > a {
+      color: #f8f8f2;
+    }
+
+    & > a + a {
+      margin-left: 0.5em;
+    }
+  }
+}

@@ -1,0 +1,70 @@
+---
+---
+
+@import "normalize";
+@import "typography";
+@import "top-line";
+@import "hp-header";
+@import "tiles";
+@import "blog";
+@import "blogpost";
+@import "avatar";
+@import "contacts";
+@import "teaser";
+@import "copyright";
+@import "contact-links";
+@import "contact-links--footer";
+@import "footer";
+
+html,
+body {
+  box-sizing: border-box;
+  background-color: #f3f3f3;
+  overflow-x: hidden;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+.full-width {
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+@media (min-width: 576px) {
+  .container {
+    width: 100%;
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    width: 90em;
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    width: 50em;
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 60em;
+    max-width: 1200px;
+  }
+}

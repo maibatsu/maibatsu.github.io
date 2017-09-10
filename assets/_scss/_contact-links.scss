@@ -1,0 +1,44 @@
+// Copyright © 2017. All rights reserved.
+// Author: Andrei Orlov <andyorlov@ya.ru>
+
+.contact-links {
+  font-family: Roboto, sans-serif;
+
+  &__item {
+    display: inline-flex;
+    color: #1d1d1b;
+    font-size: 20px;
+    text-decoration: underline;
+    text-decoration-skip: ink;
+    align-items: center;
+
+    & > span {
+      display: block;
+      width: 30px;
+      height: 30px;
+      margin-right: 7px;
+      line-height: 1;
+
+      & > svg path {
+        fill: #1d1d1b;
+      }
+    }
+
+    & + & {
+      margin-left: 1rem;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .contact-links {
+    &__item {
+      display: flex;
+
+      & + & {
+        margin-left: 0;
+        margin-top: 1rem;
+      }
+    }
+  }
+}

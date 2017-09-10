@@ -1,0 +1,26 @@
+// Copyright © 2017. All rights reserved.
+// Author: Andrei Orlov <andyorlov@ya.ru>
+
+.copyright {
+  display: flex;
+
+  &__date {
+    margin-right: 20px;
+  }
+
+  &__link {
+    color: currentColor;
+    text-decoration: none;
+    border-bottom: 1px solid;
+  }
+}
+
+@media (max-width: 575px) {
+  .copyright {
+    align-self: center;
+
+    &__date {
+      margin-right: 10px;
+    }
+  }
+}

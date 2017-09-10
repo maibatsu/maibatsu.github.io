@@ -1,0 +1,16 @@
+// Copyright © 2017. All rights reserved.
+// Author: Andrei Orlov <andyorlov@ya.ru>
+
+.blogpost {
+  & > header {
+    margin-bottom: 1rem;
+
+    & > h1 {
+      margin-bottom: 0;
+    }
+
+    & > time {
+      font-size: 14px;
+    }
+  }
+}
