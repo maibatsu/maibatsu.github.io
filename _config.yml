@@ -16,8 +16,8 @@ port: 5000
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 gems:
-  # - jekyll-feed
-  # - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
