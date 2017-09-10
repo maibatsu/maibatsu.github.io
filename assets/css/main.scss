@@ -29,10 +29,6 @@ body {
   box-sizing: inherit;
 }
 
-main {
-  margin: 1.5rem 0;
-}
-
 .full-width {
   margin-left: calc(-50vw + 50%);
   margin-right: calc(-50vw + 50%);
@@ -45,6 +41,7 @@ main {
   padding-left: 15px;
 
   &--blog {
+    margin: 1.5rem auto;
     max-width: 50em !important;
   }
 }
