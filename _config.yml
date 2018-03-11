@@ -1,18 +1,14 @@
 # Site settings
 title: Андрей Орлов, веб-разработчик
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+email: andyorlov@ya.ru
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://maibatsu.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://maibatsu.github.io/"
+github_username: maibatsu
 name: Andy Orlov
+repository: maibatsu/maibatsu.github.io
 
 # Build settings
-port: 5000
+port: 4000
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 gems:
@@ -21,6 +17,7 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - Makefile
 sass:
   sass_dir: assets/_scss
   style: :compressed
