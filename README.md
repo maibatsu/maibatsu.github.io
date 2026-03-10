@@ -1,0 +1,1 @@
+All intellectual property, including texts, images, and other media hosted in this repository, is created by Andrey Orlov and licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt this content for non-commercial purposes, provided you give appropriate credit.
